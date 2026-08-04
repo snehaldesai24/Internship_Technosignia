@@ -65,4 +65,3 @@ To leverage data analytics, visualization, and business intelligence skills to u
 ---
 
 <h3 align="center">⭐ Turning Data into Insights, and Insights into Impact ⭐</h3>
-```
