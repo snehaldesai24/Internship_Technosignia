@@ -14,7 +14,7 @@
 
 ## ⭐ About Me
 
-📊 Aspiring Data Analyst with 2.10 years of professional experience
+📊 Aspiring Data Analyst with 2.8 years of professional experience
 
 💡 Passionate about transforming raw data into actionable insights
 
